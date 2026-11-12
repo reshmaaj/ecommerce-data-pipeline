@@ -12,29 +12,6 @@ Built an end-to-end data pipeline using AWS services to ingest, process, transfo
 - Git & GitHub
 - CSV and Parquet
 
-## Architecture
-
-```text
-Olist CSV Datasets
-       |
-       v
-   Amazon S3
-  Bronze Layer
-       |
-       v
-   AWS Glue
-  Silver Layer
-   (Parquet)
-       |
-       v
-   AWS Glue
-   Gold Layer
- (Fact & Dimension Tables)
-       |
-       v
- Amazon Athena
-  SQL Analytics
-
 ## Pipeline Architecture
 
 ### 1. Bronze Layer
