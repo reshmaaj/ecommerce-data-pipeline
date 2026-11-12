@@ -45,4 +45,4 @@ Built an end-to-end data pipeline using AWS services to ingest, process, transfo
 - Performed sales, revenue, payment, product, seller, customer, delivery, and cancellation analysis.
 
 ## Dataset
-Brazilian E-Commerce Public Dataset by Olist — [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+Brazilian E-Commerce Public Dataset by Olist - [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
