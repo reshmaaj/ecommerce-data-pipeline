@@ -12,6 +12,9 @@ Built an end-to-end data pipeline using AWS services to ingest, process, transfo
 - Git & GitHub
 - CSV and Parquet
 
+## Architecture
+![AWS E-Commerce Data Pipeline Architecture](images/architecture.png)
+
 ## Pipeline Architecture
 
 ### 1. Bronze Layer
