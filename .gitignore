@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment and credentials
+.env
+.env.*
+!.env.example
+.aws/
+credentials
+config
+
+# Data files
+data/raw/
+*.csv
+*.parquet
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
